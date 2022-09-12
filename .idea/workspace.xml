@@ -9,54 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7266b2d9-0e71-431d-b2e7-3b2b7a9daf02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByDestination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/ComService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/ComServiceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/CompanyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/PassengerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/impl/ComServiceRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/impl/CompanyRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/impl/PassengerRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ComServiceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/CompanyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/PassengerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/ComServiceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/CompanyServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/PassengerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/AppContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/HtmlString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/CompanyMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/CompanySignUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/PassengerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/PassengerSignUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.html" afterDir="false" />
-    </list>
+    <list default="true" id="7266b2d9-0e71-431d-b2e7-3b2b7a9daf02" name="Changes" comment="Online Ticket Web App" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +52,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2DIPVpgdOOXTuaAGl2XFEt7WMkS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -243,7 +203,16 @@
       <workItem from="1660658908773" duration="884000" />
       <workItem from="1660741204539" duration="1796000" />
       <workItem from="1660815486202" duration="108000" />
+      <workItem from="1663010547946" duration="411000" />
     </task>
+    <task id="LOCAL-00001" summary="Online Ticket Web App">
+      <created>1663010760462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663010760462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,5 +228,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Online Ticket Web App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Online Ticket Web App" />
   </component>
 </project>
